@@ -1,3 +1,7 @@
+---
+layout: post
+title: CostModel
+---
 <!DOCTYPE html>
 <html>
 
